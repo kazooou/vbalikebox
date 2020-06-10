@@ -1,0 +1,6 @@
+use_frameworks!
+target 'vbalikebox_Tests' do
+  pod 'vbalikebox', :path => '../'
+  
+  
+end
