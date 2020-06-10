@@ -1,0 +1,6 @@
+framework module vbalikebox {
+  umbrella header "vbalikebox-umbrella.h"
+
+  export *
+  module * { export * }
+}

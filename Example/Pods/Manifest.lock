@@ -1,0 +1,16 @@
+PODS:
+  - vbalikebox (0.1.0)
+
+DEPENDENCIES:
+  - vbalikebox (from `../`)
+
+EXTERNAL SOURCES:
+  vbalikebox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vbalikebox: 0f86b2bd654d25f750073d77e010b0b2080ae208
+
+PODFILE CHECKSUM: eda1b828411461030b1057480dd9621d45e7bbb8
+
+COCOAPODS: 1.8.4
